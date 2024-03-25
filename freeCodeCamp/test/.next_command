@@ -277,3 +277,4 @@ find
 ls --color=auto
 rm fonts
 rm --help
+rm fonts -r
