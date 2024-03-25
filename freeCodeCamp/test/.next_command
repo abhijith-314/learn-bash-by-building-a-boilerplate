@@ -184,3 +184,5 @@ tree -name website
 find -name website
 cd website
 find
+ls --color=auto
+cd client
