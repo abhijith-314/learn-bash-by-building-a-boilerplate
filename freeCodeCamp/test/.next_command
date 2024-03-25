@@ -84,3 +84,6 @@ cd websites
 cd website/
 cd .
 touch background.jpg
+touch header.jpeg
+rm header.jpeg
+touch header.png
