@@ -265,3 +265,4 @@ find
 mkdir client/assets/font
 rmdir client/assets/font
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
