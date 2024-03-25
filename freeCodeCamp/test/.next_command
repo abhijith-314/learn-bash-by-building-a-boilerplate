@@ -282,3 +282,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 touch package.json
 touch server.js
+touch README.md
