@@ -119,3 +119,7 @@ ls --color=auto
 rm footer.jpeg
 rm header.jpeg
 rm header.png
+ls --color=auto
+cd images
+ls --color=auto
+rm footer.jpeg
