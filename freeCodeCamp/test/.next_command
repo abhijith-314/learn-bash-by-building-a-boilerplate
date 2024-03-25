@@ -302,3 +302,9 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+mkdir toms-website
+cp website toms-website -R
+cp website toms-website -r
+ls --color=auto
+cp websit-boilerplatee toms-website -r
+cp website-boilerplate toms-website -r
