@@ -220,3 +220,32 @@ mv header.png /client/assets/images
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+ls --color=auto
+cd images
+ls --color=auto
+ls --color=auto
+cd ..
+ls --color=auto
+find client
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+cd ../../..
+ls --color=auto
+cd images
+ls --color=auto
+touch footer.jpeg
+mv footer.jpeg ..
+cd ..
+find -name images
+mv footer.jpeg client/assets/images
+find
+cd client/assets/images
+rm footer.jpeg
+cd ../../..
+touch footer.jpeg
+mv footer.jpeg images
+mv images/footer.jpeg client/assets/images
