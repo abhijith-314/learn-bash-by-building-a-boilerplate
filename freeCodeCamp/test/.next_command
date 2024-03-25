@@ -101,3 +101,5 @@ ls --color=auto
 mkdir images
 s
 ls --color=auto
+cp backgrobackground.jpg images
+cp background.jpg images
