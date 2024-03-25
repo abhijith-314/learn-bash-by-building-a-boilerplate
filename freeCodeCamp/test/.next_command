@@ -249,3 +249,4 @@ cd ../../..
 touch footer.jpeg
 mv footer.jpeg images
 mv images/footer.jpeg client/assets/images
+find
