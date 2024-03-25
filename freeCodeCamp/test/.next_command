@@ -116,3 +116,6 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+rm footer.jpeg
+rm header.jpeg
+rm header.png
