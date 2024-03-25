@@ -177,3 +177,10 @@ find --help
 find -name index.html
 find -name styles.css
 find -name src
+tree
+cd ..
+tree
+tree -name website
+find -name website
+cd website
+find
