@@ -214,3 +214,7 @@ mv header.png client/assets/images
 find
 find -name imahes
 find -name images
+ls --color=auto
+touch header.png
+mv header.png /client/assets/images
+mv header.png client/assets/images
