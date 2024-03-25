@@ -159,3 +159,6 @@ touch menlo.otf
 mv menlo.otf fonts
 fond
 find
+mkdir clients
+rmdir clients
+mkdir client
