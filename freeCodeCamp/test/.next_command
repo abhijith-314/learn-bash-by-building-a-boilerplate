@@ -154,3 +154,6 @@ rm fonts
 cd ..
 touch lato.ttf
 mv lato.ttf fonts
+ls --color=auto
+touch menlo.otf
+mv menlo.otf fonts
