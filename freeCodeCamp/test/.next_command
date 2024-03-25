@@ -83,3 +83,4 @@ cd .
 cd websites
 cd website/
 cd .
+touch background.jpg
