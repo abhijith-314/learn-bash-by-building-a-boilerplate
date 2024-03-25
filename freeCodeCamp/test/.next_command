@@ -169,3 +169,5 @@ tree
 mv index.html client/src
 find
 mv index.js client/src
+mv stlyes.css client/src
+mv styles.css client/src
