@@ -310,3 +310,5 @@ cp websit-boilerplatee toms-website -r
 cp website-boilerplate toms-website -r
 ls --color=auto
 find toms-website
+ls --color=auto
+find website-boilerplate
