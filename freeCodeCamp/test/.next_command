@@ -278,3 +278,4 @@ ls --color=auto
 rm fonts
 rm --help
 rm fonts -r
+ls --color=auto
