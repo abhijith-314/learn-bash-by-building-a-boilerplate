@@ -206,3 +206,4 @@ ls --color=auto
 mv website header.png
 ls --color=auto
 mv header.png ..
+ls --color=auto
