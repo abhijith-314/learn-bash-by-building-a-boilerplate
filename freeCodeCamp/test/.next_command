@@ -274,3 +274,6 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 fidn
 find
+ls --color=auto
+rm fonts
+rm --help
