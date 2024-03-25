@@ -195,3 +195,14 @@ cd ../../..
 ls --color=auto
 cd images
 ls --color=auto
+mv header.png..
+mv header.png website
+ls --color=auto
+cd website
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+mv website header.png
+ls --color=auto
+mv header.png ..
