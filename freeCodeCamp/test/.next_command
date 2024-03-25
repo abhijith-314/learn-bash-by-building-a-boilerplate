@@ -312,3 +312,4 @@ ls --color=auto
 find toms-website
 ls --color=auto
 find website-boilerplate
+clear
