@@ -66,3 +66,4 @@ mkdir website_boilerplate
 rmdir website_boilerplate/
 mkdir website
 ls --color=auto
+cd website
