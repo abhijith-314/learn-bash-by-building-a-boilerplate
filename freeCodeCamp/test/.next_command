@@ -251,3 +251,5 @@ mv footer.jpeg images
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+find images
+rm images/background.jpg
