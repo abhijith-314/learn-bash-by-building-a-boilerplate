@@ -88,3 +88,4 @@ touch header.jpeg
 rm header.jpeg
 touch header.png
 touch footer.jpeg
+ls --color=auto
