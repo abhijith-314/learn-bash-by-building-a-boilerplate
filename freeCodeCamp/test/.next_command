@@ -139,3 +139,18 @@ mv menlo.otf fonts
 mv roboto.woff fonts
 find website
 find
+ls --color=auto
+cd fonts
+ls --color=auto
+cd ..
+touch lato
+mv lato fonts
+cd fonts
+dir
+rm lato
+mv lato.ttf fonts
+ls --color=auto
+rm fonts
+cd ..
+touch lato.ttf
+mv lato.ttf fonts
