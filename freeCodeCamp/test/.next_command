@@ -308,3 +308,4 @@ cp website toms-website -r
 ls --color=auto
 cp websit-boilerplatee toms-website -r
 cp website-boilerplate toms-website -r
+ls --color=auto
